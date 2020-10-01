@@ -1,4 +1,4 @@
-django-ajax-search
+resultdjango-ajax-search
 ===================
 
 A customizable AJAX-powered search for Django.
